@@ -9,7 +9,7 @@ import instaloader
 
 
 L = instaloader.Instaloader()
-#L.login("mega__mr", "Mega_mind_7$")
+
 
 L.context.max_query_frequency = 5
 
