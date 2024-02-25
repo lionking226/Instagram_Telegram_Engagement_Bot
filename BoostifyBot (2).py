@@ -13,7 +13,7 @@ L = instaloader.Instaloader()
 
 L.context.max_query_frequency = 5
 
-usernames = []
+usernames = [balenciaga_xeon]
 initial_likes_count = 0  # Initialize variable to store the initial number of likes
 
 new_likes_count = 0  # Initialize variable to store the new number of likes
