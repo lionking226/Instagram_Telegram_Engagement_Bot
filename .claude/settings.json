@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Shopify__graphql_mutation",
+      "mcp__Shopify__graphql_query",
+      "mcp__Shopify__graphql_schema"
+    ]
+  }
+}
